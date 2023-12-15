@@ -17,8 +17,15 @@ Attaching the picture
 
 ![proj2](https://github.com/sruthi-958/prepinsta/assets/104148710/a401c365-01cc-4a65-836d-b894967f698c)
 
-Project2:
+
+
+Week 2 Project:
+
+
 
 Google Colab : https://colab.research.google.com/drive/1_Cf-tT1wU5_DGoJ8IkRTXgrQE9bLEDCK#scrollTo=j-E88XGHDX4i&uniqifier=1
+
+
+
 
 Documentation : https://docs.google.com/document/d/1_UjwaAyFZD3tK3vKcL7z9LUwJxkpMavLjTao8w2m5_w/edit#heading=h.2gazcsgmxkub
