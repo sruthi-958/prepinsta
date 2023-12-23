@@ -19,6 +19,10 @@ Attaching the picture
 
 
 
+
+
+
+
 Week 2 Project:
 
 
@@ -29,3 +33,25 @@ Google Colab : https://colab.research.google.com/drive/1_Cf-tT1wU5_DGoJ8IkRTXgrQ
 
 
 Documentation : https://docs.google.com/document/d/1_UjwaAyFZD3tK3vKcL7z9LUwJxkpMavLjTao8w2m5_w/edit#heading=h.2gazcsgmxkub
+
+
+
+
+
+
+
+  Week 3
+
+       Data Cleaning Pandas
+
+  Google Colab -1 :https://colab.research.google.com/drive/1QzUP5w_YYXPJBZo9tnX7JnYYSQqBqTiH#scrollTo=OendQGNccXHt&uniqifier=1
+
+  Documentation -1: https://docs.google.com/document/d/1xqVYFghNlbsXClwLeVFRydAlciq-boXYeySh-Q6B6pE/edit#heading=h.2gazcsgmxkub
+
+      Data Cleaning (Chipotle.tsv)
+
+   Google Colab -2 : https://colab.research.google.com/drive/152Jjo5y2gEZAYH9zuR2C53lBa1evoir1#scrollTo=tKG9n3tOxyyZ   
+
+   Documentation -2: https://docs.google.com/document/d/1mrop8uF_NjLhdMpRSQgqCefK2r42J-4oEeFGcoSUTo0/edit#heading=h.2gazcsgmxkub
+
+   
