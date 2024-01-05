@@ -73,9 +73,9 @@ Documentation: https://docs.google.com/document/d/1fZjKNZ5gMqIzCALfopg9PJZ-160vW
 
  Web Scraping (Book)
 
-Google colab: https://colab.research.google.com/drive/1gsMRRqpVvTfuQvVyeJf5R94LCIOYQpR1#scrollTo=nxO_yvP6qzul&uniqifier=5
+Google colab: https://colab.research.google.com/drive/1gsMRRqpVvTfuQvVyeJf5R94LCIOYQpR1#scrollTo=nxO_yvP6qzul&uniqifier=4
 
-Documentation: https://docs.google.com/document/d/1UamfMi43PiZL-rUc8FUoMtCx5Q0Xps1wixh8Q3MPHwI/edit?addon_store#heading=h.au51mny0sx6
+Documentation:https://docs.google.com/document/d/1UamfMi43PiZL-rUc8FUoMtCx5Q0Xps1wixh8Q3MPHwI/edit?addon_store#heading=h.au51mny0sx6
 
 
 
