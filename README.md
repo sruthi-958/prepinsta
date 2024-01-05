@@ -61,4 +61,23 @@ week 4 Project
  Google Colab :https://colab.research.google.com/drive/1hR_v1k7r48Lk3kdIymrc_nRVh3IvUB7c#scrollTo=A2G5m1Se2A6N
 
  Documentation: https://docs.google.com/document/d/1IERlAr2oUzdlKJwcfHtHgPVPiDf77f6TVuGHvi3ZBto/edit#heading=h.2gazcsgmxkub
+
+
+Week 5
+
+SQL Murder Mystery
+
+Google Colab: https://colab.research.google.com/drive/1J_UZLS4adplc9c950spDkpjivSdrs3OD#scrollTo=Z7U53frG_YTu
+
+Documentation: https://docs.google.com/document/d/1fZjKNZ5gMqIzCALfopg9PJZ-160vWlm_fcdkFUbwkg0/edit?addon_store#heading=h.2gazcsgmxkub
+
+ Web Scraping (Book)
+
+Google colab: https://colab.research.google.com/drive/1gsMRRqpVvTfuQvVyeJf5R94LCIOYQpR1#scrollTo=nxO_yvP6qzul&uniqifier=5
+
+Documentation: https://docs.google.com/document/d/1UamfMi43PiZL-rUc8FUoMtCx5Q0Xps1wixh8Q3MPHwI/edit?addon_store#heading=h.au51mny0sx6
+
+
+
+
    
