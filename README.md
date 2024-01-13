@@ -78,31 +78,3 @@ Google colab: https://colab.research.google.com/drive/1gsMRRqpVvTfuQvVyeJf5R94LC
 Documentation:https://docs.google.com/document/d/1UamfMi43PiZL-rUc8FUoMtCx5Q0Xps1wixh8Q3MPHwI/edit?addon_store#heading=h.au51mny0sx6
 
 
-Week 6
-
-Indian Cars : Univariate Analysis  
-
-Google Colab:https://colab.research.google.com/drive/17N2sAZZUDqcOHbXDD3t8hTEm-JsTwkxm#scrollTo=7qgoFsNdqAnI
-
-Documentation:https://docs.google.com/document/d/1QleTxgh7TgyaINNoLKQodr4BzpYSFBLyDWv5zroYxyc/edit?addon_store#heading=h.2gazcsgmxkub
-
-
-Indian Cars : Bivariate Analysis 
-
-Google Colab: https://colab.research.google.com/drive/197pvol4Xidwyj0W-Ui-tRSI6Nl3Nxdyr#scrollTo=0q-bVPzRiXcS&uniqifier=7
-
-Documentation: https://docs.google.com/document/d/1KNCROzXm-Eio4shpWiwVcrmtiyU1vsL4RlOTyJdftTM/edit?addon_store#heading=h.2gazcsgmxkub
-
-Superstore Sales: Univariate Analysis  
-
-Google colab: https://colab.research.google.com/drive/10GeRWbPlLXJHwoD6urbnRD8aBHFEq2QT#scrollTo=LtRVr9ekstpL&uniqifier=2
-
-Documentation: https://docs.google.com/document/d/1LnLXseh1yqPknRdaoI8gfeD5WLGjVK01_l7gvS8_fDI/edit?addon_store#heading=h.2gazcsgmxkub
-
-Superstore Sales: Bivariate Analysis  
-
-Google Colab: https://colab.research.google.com/drive/1htqd0fWlyNtX7t0fb6JR-wif84yfw6bC#scrollTo=&uniqifier=7
-
-Documentation:https://docs.google.com/document/d/1dtIKkQCsj4odBbFMNOaBajZlZZ4eZK7hMRvWQhgAXus/edit?addon_store#heading=h.2gazcsgmxkub
-
-   
