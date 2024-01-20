@@ -107,4 +107,8 @@ Google Colab: https://colab.research.google.com/drive/1htqd0fWlyNtX7t0fb6JR-wif8
 Documentation:https://docs.google.com/document/d/1dtIKkQCsj4odBbFMNOaBajZlZZ4eZK7hMRvWQhgAXus/edit?addon_store#heading=h.2gazcsgmxkub
 
 
+Week 7
+ Air Quality Data
+ 
+Tableau: https://public.tableau.com/app/profile/sruthi.g1752/viz/Week7Airqualitydata/Airqualitydatadashboard?publish=yes
 
