@@ -114,10 +114,8 @@ Tableau: https://public.tableau.com/app/profile/sruthi.g1752/viz/Week7Airquality
 
 Week 8
 
+ Capstone Project - Fitbit Consumer Behavior Analysis
 
-        Fitbit Consumer Behavior Analysis
-
-        
   Google Colab: https://colab.research.google.com/drive/1c1LZj4MddUgegtB0Uo2RAwAoMSglSmOl#scrollTo=cx4j3fChNYWO
 
 
