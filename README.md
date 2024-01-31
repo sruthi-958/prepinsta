@@ -112,3 +112,10 @@ Week 7
  
 Tableau: https://public.tableau.com/app/profile/sruthi.g1752/viz/Week7Airqualitydata/Airqualitydatadashboard?publish=yes
 
+Week 8
+        Fitbit Consumer Behavior Analysis
+  Google Colab: https://colab.research.google.com/drive/1c1LZj4MddUgegtB0Uo2RAwAoMSglSmOl#scrollTo=cx4j3fChNYWO
+
+
+  Documentation: https://docs.google.com/document/d/1hMvIwCzkZvZ_kdwrpw8nRLCQUdvwf1GTLVZQl_J8ClI/edit#heading=h.2gazcsgmxkub
+
